@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp_backend_end",
+  "version": "1.0.0",
+  "description": "Build a WhatsApp Clone",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  }
+}
